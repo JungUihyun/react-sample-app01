@@ -1,5 +1,3 @@
-## 강의영상 
-https://www.inflearn.com/course/react-%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9/dashboard
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
